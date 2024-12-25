@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: 'newromantics';
-    src: url('fonts/ROMANTIC.ttf') format('truetype'); /* change to match your font file */
+    src: url('fonts/ROMANTIC.TTF') format('truetype'); /* change to match your font file */
 }
 
 .special-header {
